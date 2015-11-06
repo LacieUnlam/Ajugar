@@ -1,35 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:atmel1
 LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
 LIBS:Ajugar-cache
 EELAYER 27 0
 EELAYER END
@@ -38,12 +8,12 @@ encoding utf-8
 Sheet 1 1
 Title "Ajugar"
 Date "18 jun 2015"
-Rev ""
+Rev "1.0"
 Comp "Adaptación a Kicad por: Esteban Mena, Tutor: Diego Brengi"
 Comment1 "Diseñado por: Jim Lindblom, Jay Silver, Eric Rosenbaum"
-Comment2 "http://creativecommons.org/licenses/by-sa/3.0"
-Comment3 "Attribution Share-Alike 3.0 License"
-Comment4 "Released under the Creative Commons"
+Comment2 "http://creativecommons.org/licenses/by-sa/4.0"
+Comment3 "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+Comment4 "http://www.lacie-unlam.org/dokuwiki/doku.php?id=ajugar_publico"
 $EndDescr
 $Comp
 L ATMEGA32U4-A U1
