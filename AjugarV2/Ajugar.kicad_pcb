@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.0-rc1-stable)
+(kicad_pcb (version 4) (host pcbnew "(2015-09-12 BZR 6188)-product")
 
   (general
     (links 110)
     (no_connects 0)
-    (area 55.716099 65.520499 205.726101 145.680501)
+    (area 55.716099 59.250579 375.4925 182.6825)
     (thickness 1.6)
     (drawings 7)
     (tracks 534)
@@ -13,6 +13,17 @@
   )
 
   (page A4)
+  (title_block
+    (title Ajugar)
+    (date 2015-11-05)
+    (rev 2.0)
+    (company "Adaptación Ajugar por: Esteban Mena and Christian Huy. Tutor: Diego Brengi.")
+    (comment 1 "Diseñado por: Jim Lindblom, Jay Silver, Eric Rosenbaum")
+    (comment 2 https://creativecommons.org/licenses/by-sa/4.0/)
+    (comment 3 "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)")
+    (comment 4 http://www.lacie-unlam.org/dokuwiki/doku.php?id=ajugar_publico)
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
