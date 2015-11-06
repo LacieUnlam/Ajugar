@@ -1,6 +1,6 @@
 # Ajugar
 Ajugar is an electronic circuit based on Makey Makey, but with an easy to build PCB in  KiCad.
-<img src="AjugarV1/photos/20150708_210446v.jpg" width="400" align="left">
+<img src="AjugarV1/photos/20150708_210446v.jpg" width="400" align="left"><br>
 
 AjugarV1
 --------
