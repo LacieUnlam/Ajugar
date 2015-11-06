@@ -1,0 +1,346 @@
+Cmp-Mod V01 Created by PcbNew date = 15/06/2015 15:37:51
+
+BeginCmp
+TimeStamp = /555B8D2C;
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8DD3;
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8DB5;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8DC4;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8DE2;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E00;
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = C2;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E0F;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8DF1;
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4F3;
+Reference = CLICK1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B9002;
+Reference = CLICK2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FF3;
+Reference = D1;
+ValeurCmp = LED 3mm Rojo;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FE4;
+Reference = D8;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FD5;
+Reference = D9;
+ValeurCmp = LED 3mm Rojo;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FC6;
+Reference = D10;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FB7;
+Reference = D11;
+ValeurCmp = LED 3mm Rojo;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4C6;
+Reference = DOWN1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B903E;
+Reference = DOWN2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B90E3;
+Reference = F1;
+ValeurCmp = 500mA;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B90A7;
+Reference = GND1;
+ValeurCmp = Pines 6x1;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B90D4;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4B7;
+Reference = LEFT1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B904D;
+Reference = LEFT2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B90B6;
+Reference = LETRAS1;
+ValeurCmp = Pines 6x1;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B90C5;
+Reference = PROGRAMACION1;
+ValeurCmp = Pines 6x1;
+IdModule  = PIN_ARRAY-6X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA828;
+Reference = R1;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E9A;
+Reference = R2;
+ValeurCmp = 22R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E8B;
+Reference = R3;
+ValeurCmp = 22R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA819;
+Reference = R4;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA80A;
+Reference = R5;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E31;
+Reference = R6;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA837;
+Reference = R7;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CA846;
+Reference = R8;
+ValeurCmp = 22M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8F3F;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E7C;
+Reference = R10;
+ValeurCmp = 1K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8F99;
+Reference = R14;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8F8A;
+Reference = R15;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8F7B;
+Reference = R16;
+ValeurCmp = 330R;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E40;
+Reference = R26;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E4F;
+Reference = R27;
+ValeurCmp = 1K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E5E;
+Reference = R28;
+ValeurCmp = 330R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8E6D;
+Reference = R29;
+ValeurCmp = 1K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4D5;
+Reference = RIGHT1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B906B;
+Reference = RIGHT2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4E4;
+Reference = SPACE1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B907A;
+Reference = SPACE2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8C91;
+Reference = U1;
+ValeurCmp = ATMEGA32U4-A;
+IdModule  = TQFP44;
+EndCmp
+
+BeginCmp
+TimeStamp = /555CB4A8;
+Reference = UP1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B905C;
+Reference = UP2;
+ValeurCmp = LED 3mm Verde;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /555B8FA8;
+Reference = X1;
+ValeurCmp = 16Mhz;
+IdModule  = HC-18UV;
+EndCmp
+
+EndListe

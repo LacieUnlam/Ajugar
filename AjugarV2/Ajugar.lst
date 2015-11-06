@@ -1,0 +1,68 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 24/06/2015 09:28:41 p.m.
+
+#Componentes ( orden = Valor )
+| 22pF         C1        
+| 22pF         C2        
+| 0.1uF        C4        
+| 0.1uF        C5        
+| 0.1uF        C8        
+| 1uF          C3        
+| 1uF          C6        
+| 10uF         C7        
+| CONN_1       CLICK1    
+| LED 3mm Verde CLICK2    
+| LED 3mm Rojo D1        
+| LED 3mm Verde D8        
+| LED 3mm Rojo D9        
+| LED 3mm Verde D10       
+| LED 3mm Rojo D11       
+| CONN_1       DOWN1     
+| LED 3mm Verde DOWN2     
+| 500mA        F1        
+| CONN_6       FLECHAS1  
+| Pines 6x1    GND1      
+| USB          J1        
+| CONN_1       LEFT1     
+| LED 3mm Verde LEFT2     
+| Pines 6x1    LETRAS1   
+| Pines 3x2    PROGRAMACION1
+| 22R          R2        
+| 22R          R3        
+| 330R         R14       
+| 330R         R15       
+| 330R         R16       
+| 330R         R26       
+| 330R         R28       
+| 1K           R10       
+| 1K           R27       
+| 1K           R29       
+| 10K          R9        
+| 22M          R1        
+| 22M          R4        
+| 22M          R5        
+| 22M          R6        
+| 22M          R7        
+| 22M          R8        
+| 22M          R11       
+| 22M          R12       
+| 22M          R13       
+| 22M          R17       
+| 22M          R18       
+| 22M          R19       
+| 22M          R20       
+| 22M          R21       
+| 22M          R22       
+| 22M          R23       
+| 22M          R24       
+| 22M          R25       
+| CONN_1       RIGHT1    
+| LED 3mm Verde RIGHT2    
+| CONN_1       SPACE1    
+| LED 3mm Verde SPACE2    
+| ATMEGA32U4-A U1        
+| CONN_1       UP1       
+| LED 3mm Verde UP2       
+| 16Mhz        X1        
+#Fin Componentes
+
+#Fin de Lista
